@@ -5,7 +5,5 @@
 	"MD013": {
 		"line_length": 200
 	},
-	"MD029": {
-		"style": "one_or_ordered"
-	}
+	"MD029": false
 }
